@@ -6,4 +6,4 @@ finally:
     file.close()
 
 with open('test.txt', 'w') as file:
-    file.write("Chai aur python")
+    file.write("Jai Shiv")
