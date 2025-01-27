@@ -19,7 +19,7 @@ def list_video():
 
 
 def add_video(name, time):
-    conn.execute("INSERT INTO videos (name, time) VALUES (?, ?)", (name, time))
+    cursor.execute("INSERT INTO videos (name, time) VALUES (?, ?)", (name, time))
     conn.commit()
 
 
