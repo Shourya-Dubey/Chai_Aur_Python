@@ -1,7 +1,7 @@
 username = "Chaiaurcode"
 
 def func():
-    # username = "Cahi"
+    # username = "Chai"
     print(username)
 
 print(username)
