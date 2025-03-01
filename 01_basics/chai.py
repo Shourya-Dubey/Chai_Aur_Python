@@ -1,4 +1,3 @@
-from hello_chai import chai,tea
+from hello_chai import chai
 
 chai("ginger tea")
-tea(4)

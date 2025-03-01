@@ -21,7 +21,7 @@ print(result)
 
 #####################
 def func3():
-    # global x
+    global x
     x = 12
 
 func3()
